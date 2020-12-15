@@ -1,0 +1,4 @@
+#Fri Dec 11 16:24:16 TRT 2020
+base.0=/home/mehmet/Masaüstü/React Native BootCamp/LoginScreen/week_1-meoner/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
